@@ -25,7 +25,7 @@ Simulated dashboard shows patient flow and resource utilization.
 Simple JavaScript-based prototype to showcase concept during the hackathon.
 
 6️⃣ Files Included
-File/Folder	Description
+
 text.js	JavaScript prototype (core logic and visualization of the model)
 
 clinic_simulation_log.csv	(Dummy patient/clinic data used for simulation)
