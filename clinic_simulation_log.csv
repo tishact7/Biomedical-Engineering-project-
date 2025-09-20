@@ -1,0 +1,11 @@
+Patient_ID,Patient_Name,Appointment_Type,Scheduled_Time,Estimated_Duration(min),Doctor_Assigned,Status
+P001,John Doe,Surgery,09:00,120,Dr. Smith,Scheduled
+P002,Mary Jane,Consultation,09:30,30,Dr. Patel,Completed
+P003,Ahmed Khan,Follow-up,10:00,20,Dr. Lee,Delayed
+P004,Emily Wong,Surgery,10:30,90,Dr. Brown,Scheduled
+P005,Carlos Ruiz,Consultation,11:00,40,Dr. Patel,Scheduled
+P006,Priya Das,Surgery,11:15,150,Dr. Smith,Delayed
+P007,Ivan Novak,Follow-up,11:30,15,Dr. Lee,Completed
+P008,Sophia Liu,Consultation,12:00,25,Dr. Patel,Scheduled
+P009,Liam O’Neil,Surgery,12:30,100,Dr. Brown,Scheduled
+P010,Fatima Begum,Consultation,13:00,35,Dr. Lee,Delayed
